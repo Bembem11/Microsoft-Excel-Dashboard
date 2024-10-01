@@ -20,10 +20,17 @@ The dataset was gotten from an open data source which was gotten online from kag
 - Github for Portfolio Building
 ## Results
 
- From the data analysis dashboard, we were able to gather some insights on the net profit made by network, the months with the highest data sales and the site users visited more often. The analysis also reviews that Corporate brings more of the profit to the network, and most of the employees are of the middle age class. 
+ From the data analysis dashboard, we were able to gather some insights
+  - The network's net profit generated in  2023
+  - The network's data sales progressed in some sprcific months
+  - The site users visited the most
+  - The Corporat segment generated the most profits in 2023
+  - Employees of the network are made up of middle age class
+<img width="395" alt="NEW DASHBOARD" src="https://github.com/user-attachments/assets/0da5acac-c449-41c5-b688-3240f0e900c3">
+
  ## Recommendations
 
- The network should captalize on the months with the highest data sales and implement similar strategies throughout the year through marketing. The network should collaborate with Google to specialized data plans for users like students using it for assignments and reserach project and also for consumers to encourage more data purchases.
+ The network should captalize on the months with the highest data sales and implement similar strategies throughout the year through marketing. The network should collaborate with Google to specialized data plans for users like students using it for assignments and reserach project and also for consumers to encourage more data purchases. Fosuing
 
 
 
