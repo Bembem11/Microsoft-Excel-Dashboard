@@ -4,7 +4,7 @@
 This Data Analysis dashboard wants to explore the sales and usage of the network per month,total sales and profits, and more to generate insights. By analysing various datasets generated, we aim to gather insights to make logical decision
 ## Data Sources
 
-The dataset was gotten from an open data source which was gotten online from kaggle [Download Here](www.kaggle.com)
+The dataset was gotten from an open data source which was gotten online from kaggle [Download Here](https://www.kaggle.com)
 ## Tools used
 
 - Microsoft Excel [Download Here](https://www.microsoft.com)
